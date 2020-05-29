@@ -1,0 +1,16 @@
+{
+  "players": [
+    {
+      "playerId": 1,
+      "playerName": "Rohit Sharma",
+      "playerPosition": "Opener",
+      "playerImage": "https://media.gettyimages.com/photos/rohit-sharma-of-india-celebrates-reaching-his-century-during-the-picture-id997164852?s=2048x2048"
+    },
+{
+      "playerId": 4,
+      "playerName": "MS Dhoni",
+      "playerPosition": "Wicket Keeper",
+      "playerImage": "https://media.gettyimages.com/photos/indias-cricket-team-captain-mahendra-singh-dhoni-poses-with-the-icc-picture-id111487207?s=2048x2048"
+    }
+  ]
+}

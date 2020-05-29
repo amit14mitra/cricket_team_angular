@@ -1,0 +1,48 @@
+.navbar-header{
+    color:cyan;
+    padding: 0;
+    margin: 0;
+    font-size: 40px;
+}
+li{
+    color: blueviolet;
+    font-size:15px;
+    font-family: sans-serif;
+}
+.cricket{
+    text-align: center;
+    text-shadow: aqua;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    font-style: normal;
+    /* color:brown */
+}
+.head{
+    text-decoration: solid;
+    /* background-color: crimson; */
+    border: 5px;
+    position: relative;
+    color:red;
+}
+span{
+    font-family:Arial, Helvetica, sans-serif ;
+    text-indent: 50px;
+  text-align: justify;
+  letter-spacing: 2px;
+}
+#i1{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  opacity: 1;
+  filter: contrast(100%);
+}
+/* #i2{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  float:right;
+} */
